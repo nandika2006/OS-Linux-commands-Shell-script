@@ -1,5 +1,5 @@
-# Name: Priyanka R
-# Ref no: 212223220081
+# Name: Nandika S
+# Ref no: 212224230175
 
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
